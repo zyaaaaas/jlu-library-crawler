@@ -40,8 +40,8 @@ def request_html(url):
 def make_md5(s, encoding='utf-8'):
     return md5(s.encode(encoding)).hexdigest()
 if __name__ == '__main__':
-    appid = '20180227000128640'
-    appkey = 'Z0CpKTmojHYIrrZvHynL'
+    appid = ''
+    appkey = ''
     baiduheaders = {'Content-Type': 'application/x-www-form-urlencoded'}
     # For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
     from_lang = 'en'
