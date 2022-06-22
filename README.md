@@ -1,6 +1,7 @@
 # jlu-library-crawler
 吉林大学图书馆爬虫，输入关键词，爬取标题和摘要,目前仅适用于校园网内爬取
 需要安装tqdm requests bs4
+
 pip install tqdm requests bs4
 ![微信图片编辑_20220622112155](https://user-images.githubusercontent.com/91374662/174936731-b09d74f8-8ca6-417f-9e9e-da723156afe7.jpg)
 ![微信图片编辑_20220622112235](https://user-images.githubusercontent.com/91374662/174936757-d1d73dbd-52e6-4c99-bbcd-dc1105466f12.jpg)
